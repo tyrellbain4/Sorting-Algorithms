@@ -1,6 +1,4 @@
-# Sorting-Algorithms
-
-**CURRENT WIP**
+# Sorting-Algorithms (WIP)
 
 This repository contains algorithms for [Bubble](#bubble), [Selection](#selection), [Insertion](#insertion), [Merge](#merge) and [Quick](#quick) Sort. I wrote each algorithm in C, C++, Java and Python3 to compare performance between both the sorting algorithms themselves and the languages. This totals 20 benchmarks.
 
